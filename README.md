@@ -18,5 +18,3 @@ Run this command to run the project:
 ```console
 cargo r -r
 ```
-
-Or you can grab a pre built binary or your OS from releases.
